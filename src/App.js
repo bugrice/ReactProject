@@ -1,7 +1,7 @@
 // 스타일을 적용하는 법
 // 1. 스타일시트를 이용하는 것
 // 2. Inlint style을 적용하는 것
-// 3. CSS in JS - emotion
+// 3. CSS in JS - emotion 123
 
 import Box from "./components/Box";
 
